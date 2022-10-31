@@ -27,6 +27,10 @@ public class SecurityController {
     {
         System.out.println("Hello all");
     }
+    public void print1()
+    {
+        System.out.println("vanakkam da mapla theni la irunthu");
+    }
 
 
 
