@@ -23,6 +23,11 @@ public class SecurityController {
         return view;
     }
 
+    public void print()
+    {
+        System.out.println("Hello all");
+    }
+
 
 
 }
